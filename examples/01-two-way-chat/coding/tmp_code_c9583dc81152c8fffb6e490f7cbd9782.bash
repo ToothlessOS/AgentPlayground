@@ -1,0 +1,1 @@
+conda install -c conda-forge pandas matplotlib alpha_vantage
